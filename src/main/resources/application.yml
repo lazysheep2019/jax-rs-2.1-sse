@@ -1,0 +1,4 @@
+cxf:
+  servlet:
+    init:
+      transportId: http://cxf.apache.org/transports/http/sse
